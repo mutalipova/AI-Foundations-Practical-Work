@@ -1,8 +1,5 @@
-# AI-Foundations-Practical-Work
-Sun'iy intellekt asoslari fanidan amaliy ishlar to'plami
 # Sun’iy Intellekt Asoslari — Amaliy Ish
 
-Ushbu repozitoriy Sun'iy intellekt asoslari fanidan bajarilgan amaliy ishlarni o'z ichiga oladi.
 
 ## Amaliy ish mavzusi: Chiziqli regressiya yordamida bashorat qilish (Masalan)
 
